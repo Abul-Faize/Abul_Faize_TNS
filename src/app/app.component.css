@@ -1,13 +1,12 @@
 .container {
   max-width: 100%;
-  background:linear-gradient(#1b1924,#118aaf,#06191f);
+  background:linear-gradient(#0d045f,#118aaf,#06191f);
   
 }
 
 h1 {
   text-align: center;
   color: #118aaf;
-  margin-bottom: 20px;
 }
 
 .form-card {
